@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<CartAddResponse
+    xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"/>
+        </HTTPHeaders>
+        <RequestId>63fb4155-0c03-41c2-af7e-a998ad43f81c</RequestId>
+        <Arguments>
+            <Argument Name="AWSAccessKeyId" Value="AKIAJDLDLLPQSCXXNEZQ"/>
+            <Argument Name="AssociateTag" Value="wangnanasso02-23"/>
+            <Argument Name="CartId" Value="140-2833262-36342050"/>
+            <Argument Name="HMAC" Value="YsRv6Jb92WbwOfxeN3OODAn/WnQ="/>
+            <Argument Name="Item.1.ASIN" Value="0596009208"/>
+            <Argument Name="Item.1.Quantity" Value="1"/>
+            <Argument Name="Operation" Value="CartAdd"/>
+            <Argument Name="ResponseGroup" Value="Cart"/>
+            <Argument Name="Service" Value="AWSECommerceService"/>
+            <Argument Name="Timestamp" Value="2017-09-07T01:22:15.000Z"/>
+            <Argument Name="Signature" Value="l1dxSIJXkIpkOfOhTzqCm9ZAE3WJC/kRh6TJFgeE9D8="/>
+        </Arguments>
+        <RequestProcessingTime>0.060019273</RequestProcessingTime>
+    </OperationRequest>
+    <Cart>
+        <Request>
+            <IsValid>True</IsValid>
+            <CartAddRequest>
+                <CartId>140-2833262-36342050</CartId>
+                <HMAC>YsRv6Jb92WbwOfxeN3OODAn/WnQ=</HMAC>
+                <Items>
+                    <Item>
+                        <ASIN>0596009208</ASIN>
+                        <Quantity>1</Quantity>
+                    </Item>
+                </Items>
+                <ResponseGroup>Cart</ResponseGroup>
+            </CartAddRequest>
+            <Errors>
+                <Error>
+                    <Code>AWS.ECommerceService.CartInfoMismatch</Code>
+                    <Message>Your request contains an invalid AssociateTag, CartId and HMAC combination. Please verify the AssociateTag, CartId, HMAC and retry. Remember that all Cart operations must pass in the CartId and HMAC that were returned to you during the CartCreate operation.</Message>
+                </Error>
+            </Errors>
+        </Request>
+    </Cart>
+</CartAddResponse>

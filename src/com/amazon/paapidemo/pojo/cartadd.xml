@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<CartAddResponse
+    xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"/>
+        </HTTPHeaders>
+        <RequestId>50e904b0-3950-40e6-9c89-f5ad74f654fd</RequestId>
+        <Arguments>
+            <Argument Name="AWSAccessKeyId" Value="AKIAJDLDLLPQSCXXNEZQ"/>
+            <Argument Name="AssociateTag" Value="wangnanasso02-23"/>
+            <Argument Name="CartId" Value="140-2833262-3634205"/>
+            <Argument Name="HMAC" Value="YsRv6Jb92WbwOfxeN3OODAn/WnQ="/>
+            <Argument Name="Item.1.ASIN" Value="0596009208"/>
+            <Argument Name="Item.1.Quantity" Value="1"/>
+            <Argument Name="Operation" Value="CartAdd"/>
+            <Argument Name="ResponseGroup" Value="Cart"/>
+            <Argument Name="Service" Value="AWSECommerceService"/>
+            <Argument Name="Timestamp" Value="2017-09-07T01:14:19.000Z"/>
+            <Argument Name="Signature" Value="VjGi0xr72tHf2t5TbEwjr+BJ1xWF31RsEURA3BR4lhM="/>
+        </Arguments>
+        <RequestProcessingTime>1.4035221</RequestProcessingTime>
+    </OperationRequest>
+    <Cart>
+        <Request>
+            <IsValid>True</IsValid>
+            <CartAddRequest>
+                <CartId>140-2833262-3634205</CartId>
+                <HMAC>YsRv6Jb92WbwOfxeN3OODAn/WnQ=</HMAC>
+                <Items>
+                    <Item>
+                        <ASIN>0596009208</ASIN>
+                        <Quantity>1</Quantity>
+                    </Item>
+                </Items>
+                <ResponseGroup>Cart</ResponseGroup>
+            </CartAddRequest>
+        </Request>
+        <CartId>140-2833262-3634205</CartId>
+        <HMAC>YsRv6Jb92WbwOfxeN3OODAn/WnQ=</HMAC>
+        <URLEncodedHMAC>YsRv6Jb92WbwOfxeN3OODAn%2FWnQ%3D</URLEncodedHMAC>
+        <PurchaseURL>https://www.amazon.com/gp/cart/aws-merge.html?cart-id=140-2833262-3634205&associate-id=wangnanasso02-23&hmac=YsRv6Jb92WbwOfxeN3OODAn%2FWnQ%3D&SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&MergeCart=False</PurchaseURL>
+        <SubTotal>
+            <Amount>6963</Amount>
+            <CurrencyCode>USD</CurrencyCode>
+            <FormattedPrice>$69.63</FormattedPrice>
+        </SubTotal>
+        <CartItems>
+            <SubTotal>
+                <Amount>6963</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedPrice>$69.63</FormattedPrice>
+            </SubTotal>
+            <CartItem>
+                <CartItemId>C3UQM48TLC8H1Q</CartItemId>
+                <ASIN>0596009208</ASIN>
+                <SellerNickname>Amazon.com</SellerNickname>
+                <Quantity>1</Quantity>
+                <Title>Head First Java, 2nd Edition</Title>
+                <ProductGroup>Book</ProductGroup>
+                <Price>
+                    <Amount>2973</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$29.73</FormattedPrice>
+                </Price>
+                <ItemTotal>
+                    <Amount>2973</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$29.73</FormattedPrice>
+                </ItemTotal>
+            </CartItem>
+            <CartItem>
+                <CartItemId>CNDX03AWJM3BU</CartItemId>
+                <ASIN>1617293989</ASIN>
+                <SellerNickname>Amazon.com</SellerNickname>
+                <Quantity>1</Quantity>
+                <Title>Spring Microservices in Action</Title>
+                <ProductGroup>Book</ProductGroup>
+                <Price>
+                    <Amount>3990</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$39.90</FormattedPrice>
+                </Price>
+                <ItemTotal>
+                    <Amount>3990</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$39.90</FormattedPrice>
+                </ItemTotal>
+            </CartItem>
+        </CartItems>
+    </Cart>
+</CartAddResponse>

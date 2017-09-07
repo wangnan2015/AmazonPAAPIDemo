@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<CartGetResponse
+    xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"/>
+        </HTTPHeaders>
+        <RequestId>3e46cf82-f01d-47fd-8419-a619408ee045</RequestId>
+        <Arguments>
+            <Argument Name="AWSAccessKeyId" Value="AKIAJDLDLLPQSCXXNEZQ"/>
+            <Argument Name="AssociateTag" Value="wangnanasso02-23"/>
+            <Argument Name="CartId" Value="132-1293207-2189728"/>
+            <Argument Name="HMAC" Value="MtmGSBEnRjBFeBAQKQQ3aS+4rnc="/>
+            <Argument Name="Operation" Value="CartGet"/>
+            <Argument Name="ResponseGroup" Value="Cart"/>
+            <Argument Name="Service" Value="AWSECommerceService"/>
+            <Argument Name="Timestamp" Value="2017-09-07T04:06:27.000Z"/>
+            <Argument Name="Signature" Value="DbcmI19w0x8lRTMrcPKF2/gdy+DaSmKo/i6qfCBl9L8="/>
+        </Arguments>
+        <RequestProcessingTime>0.08306302</RequestProcessingTime>
+    </OperationRequest>
+    <Cart>
+        <Request>
+            <IsValid>True</IsValid>
+            <CartGetRequest>
+                <CartId>132-1293207-2189728</CartId>
+                <HMAC>MtmGSBEnRjBFeBAQKQQ3aS+4rnc=</HMAC>
+                <ResponseGroup>Cart</ResponseGroup>
+            </CartGetRequest>
+        </Request>
+        <CartId>132-1293207-2189728</CartId>
+        <HMAC>MtmGSBEnRjBFeBAQKQQ3aS+4rnc=</HMAC>
+        <URLEncodedHMAC>MtmGSBEnRjBFeBAQKQQ3aS%2B4rnc%3D</URLEncodedHMAC>
+        <PurchaseURL>https://www.amazon.com/gp/cart/aws-merge.html?cart-id=132-1293207-2189728&associate-id=wangnanasso02-23&hmac=MtmGSBEnRjBFeBAQKQQ3aS%2B4rnc%3D&SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&MergeCart=False</PurchaseURL>
+        <SubTotal>
+            <Amount>9902</Amount>
+            <CurrencyCode>USD</CurrencyCode>
+            <FormattedPrice>$99.02</FormattedPrice>
+        </SubTotal>
+        <CartItems>
+            <SubTotal>
+                <Amount>9902</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedPrice>$99.02</FormattedPrice>
+            </SubTotal>
+            <CartItem>
+                <CartItemId>C3UQM48TLC8H1Q</CartItemId>
+                <ASIN>0596009208</ASIN>
+                <SellerNickname>Amazon.com</SellerNickname>
+                <Quantity>2</Quantity>
+                <Title>Head First Java, 2nd Edition</Title>
+                <ProductGroup>Book</ProductGroup>
+                <Price>
+                    <Amount>2973</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$29.73</FormattedPrice>
+                </Price>
+                <ItemTotal>
+                    <Amount>5946</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$59.46</FormattedPrice>
+                </ItemTotal>
+            </CartItem>
+            <CartItem>
+                <CartItemId>CJVPSFOC8KKDY</CartItemId>
+                <ASIN>0071809252</ASIN>
+                <SellerNickname>Amazon.com</SellerNickname>
+                <Quantity>2</Quantity>
+                <Title>Java: A Beginner's Guide, Sixth Edition</Title>
+                <ProductGroup>Book</ProductGroup>
+                <Price>
+                    <Amount>1978</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$19.78</FormattedPrice>
+                </Price>
+                <ItemTotal>
+                    <Amount>3956</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$39.56</FormattedPrice>
+                </ItemTotal>
+            </CartItem>
+        </CartItems>
+    </Cart>
+</CartGetResponse>

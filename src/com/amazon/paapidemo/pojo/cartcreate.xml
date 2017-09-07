@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<CartCreateResponse
+    xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8"/>
+        </HTTPHeaders>
+        <RequestId>c92010b5-3191-44f1-bb2f-c84788505b58</RequestId>
+        <Arguments>
+            <Argument Name="AWSAccessKeyId" Value="AKIAJDLDLLPQSCXXNEZQ"/>
+            <Argument Name="AssociateTag" Value="wangnanasso01-20"/>
+            <Argument Name="Item.1.ASIN" Value="0071809252"/>
+            <Argument Name="Item.1.Quantity" Value="1"/>
+            <Argument Name="Operation" Value="CartCreate"/>
+            <Argument Name="ResponseGroup" Value="Cart"/>
+            <Argument Name="Service" Value="AWSECommerceService"/>
+            <Argument Name="Timestamp" Value="2017-09-06T10:59:43.000Z"/>
+            <Argument Name="Signature" Value="bJuIYAtDAwgPTc9O5pUkMFw8TOzxNnV45kxIkqZS0zs="/>
+        </Arguments>
+        <RequestProcessingTime>0.21931939</RequestProcessingTime>
+    </OperationRequest>
+    <Cart>
+        <Request>
+            <IsValid>True</IsValid>
+            <CartCreateRequest>
+                <Items>
+                    <Item>
+                        <ASIN>0071809252</ASIN>
+                        <Quantity>1</Quantity>
+                    </Item>
+                </Items>
+                <ResponseGroup>Cart</ResponseGroup>
+            </CartCreateRequest>
+        </Request>
+        <CartId>132-8805837-3612656</CartId>
+        <HMAC>aZvu8F7+K2Mhww6LRuVMGWM5Dcc=</HMAC>
+        <URLEncodedHMAC>aZvu8F7%2BK2Mhww6LRuVMGWM5Dcc%3D</URLEncodedHMAC>
+        <PurchaseURL>https://www.amazon.com/gp/cart/aws-merge.html?cart-id=132-8805837-3612656&associate-id=wangnanasso01-20&hmac=aZvu8F7%2BK2Mhww6LRuVMGWM5Dcc%3D&SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&MergeCart=False</PurchaseURL>
+        <SubTotal>
+            <Amount>1978</Amount>
+            <CurrencyCode>USD</CurrencyCode>
+            <FormattedPrice>$19.78</FormattedPrice>
+        </SubTotal>
+        <CartItems>
+            <SubTotal>
+                <Amount>1978</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedPrice>$19.78</FormattedPrice>
+            </SubTotal>
+            <CartItem>
+                <CartItemId>CJVPSFOC8KKDY</CartItemId>
+                <ASIN>0071809252</ASIN>
+                <SellerNickname>Amazon.com</SellerNickname>
+                <Quantity>1</Quantity>
+                <Title>Java: A Beginner's Guide, Sixth Edition</Title>
+                <ProductGroup>Book</ProductGroup>
+                <Price>
+                    <Amount>1978</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$19.78</FormattedPrice>
+                </Price>
+                <ItemTotal>
+                    <Amount>1978</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$19.78</FormattedPrice>
+                </ItemTotal>
+            </CartItem>
+        </CartItems>
+    </Cart>
+</CartCreateResponse>

@@ -1,0 +1,3917 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+  <OperationRequest>
+    <HTTPHeaders>
+      <Header Name="UserAgent" Value="Java/1.8.0_141"/>
+    </HTTPHeaders>
+    <RequestId>cc3d3ee4-cbc3-4b97-84ce-9fae89e2030b</RequestId>
+    <Arguments>
+      <Argument Name="AWSAccessKeyId" Value="AKIAJDLDLLPQSCXXNEZQ"/>
+      <Argument Name="AssociateTag" Value="wangnanasso01-20"/>
+      <Argument Name="Keywords" Value="java"/>
+      <Argument Name="Operation" Value="ItemSearch"/>
+      <Argument Name="ResponseGroup" Value="BrowseNodes,Images,ItemAttributes,Offers"/>
+      <Argument Name="SearchIndex" Value="Books"/>
+      <Argument Name="Service" Value="AWSECommerceService"/>
+      <Argument Name="Timestamp" Value="2017-09-06T06:31:19Z"/>
+      <Argument Name="Signature" Value="e7KJ8OMEpsMQmU7zeHBJTDUfU/twVanIrVuGlSA1Mio="/>
+    </Arguments>
+    <RequestProcessingTime>0.1871417970000000</RequestProcessingTime>
+  </OperationRequest>
+  <Items>
+    <Request>
+      <IsValid>True</IsValid>
+      <ItemSearchRequest>
+        <Keywords>java</Keywords>
+        <ResponseGroup>BrowseNodes</ResponseGroup>
+        <ResponseGroup>Images</ResponseGroup>
+        <ResponseGroup>ItemAttributes</ResponseGroup>
+        <ResponseGroup>Offers</ResponseGroup>
+        <SearchIndex>Books</SearchIndex>
+      </ItemSearchRequest>
+    </Request>
+    <TotalResults>22113</TotalResults>
+    <TotalPages>2212</TotalPages>
+    <MoreSearchResultsUrl>https://www.amazon.com/gp/search?linkCode=xm2&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;keywords=java&amp;tag=wangnanasso01-20&amp;creative=386001&amp;url=search-alias%3Dstripbooks&amp;camp=2025</MoreSearchResultsUrl>
+    <Item>
+      <ASIN>0071809252</ASIN>
+      <DetailPageURL>https://www.amazon.com/Java-Beginners-Guide-Herbert-Schildt/dp/0071809252?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0071809252</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Java-Beginners-Guide-Herbert-Schildt/dp/tech-data/0071809252?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071809252</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=0071809252&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071809252</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=0071809252&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071809252</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=0071809252&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071809252</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/0071809252?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071809252</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/0071809252?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071809252</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/0071809252?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071809252</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/41KJV7-HS0L._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">61</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/41KJV7-HS0L._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">130</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/41KJV7-HS0L.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">405</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51cS2Q5sITL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">24</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51cS2Q5sITL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51cS2Q5sITL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51cS2Q5sITL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">89</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51cS2Q5sITL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">129</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51cS2Q5sITL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">404</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31NLb3gvXfL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">22</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31NLb3gvXfL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">56</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31NLb3gvXfL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">56</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31NLb3gvXfL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">82</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31NLb3gvXfL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">120</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31NLb3gvXfL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">375</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41KJV7-HS0L._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">24</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41KJV7-HS0L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41KJV7-HS0L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41KJV7-HS0L._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">89</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41KJV7-HS0L._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">130</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41KJV7-HS0L.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">405</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Herbert Schildt</Author>
+        <Binding>Paperback</Binding>
+        <Brand>Herbert Schildt</Brand>
+        <EAN>9780071809252</EAN>
+        <EANList>
+          <EANListElement>9780071809252</EANListElement>
+        </EANList>
+        <Edition>6</Edition>
+        <Feature>Java a Beginners Guide 6 E</Feature>
+        <ISBN>0071809252</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">920</Height>
+          <Length Units="hundredths-inches">730</Length>
+          <Weight Units="hundredths-pounds">260</Weight>
+          <Width Units="hundredths-inches">140</Width>
+        </ItemDimensions>
+        <Label>McGraw-Hill Education</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>4000</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$40.00</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>McGraw-Hill Education</Manufacturer>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>728</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">150</Height>
+          <Length Units="hundredths-inches">910</Length>
+          <Weight Units="hundredths-pounds">240</Weight>
+          <Width Units="hundredths-inches">730</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2014-05-06</PublicationDate>
+        <Publisher>McGraw-Hill Education</Publisher>
+        <ReleaseDate>2014-05-06</ReleaseDate>
+        <Studio>McGraw-Hill Education</Studio>
+        <Title>Java: A Beginner's Guide, Sixth Edition</Title>
+        <TradeInValue>
+          <Amount>336</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$3.36</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>1978</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$19.78</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>1459</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$14.59</FormattedPrice>
+        </LowestUsedPrice>
+        <TotalNew>45</TotalNew>
+        <TotalUsed>29</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/0071809252?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071809252</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>v35V%2F1pIg3zt8X0n9DD4XiB1effBH63fSbYXMNZEVV7bRpCnvjN7haO3j04LPZeSr2HwA%2F4HMmTT4OyVolAj5hBOu%2BHk8JuDWHm5%2B0jCNVdLM4n5z4CpJQ%3D%3D</OfferListingId>
+            <Price>
+              <Amount>1978</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$19.78</FormattedPrice>
+            </Price>
+            <AmountSaved>
+              <Amount>2022</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$20.22</FormattedPrice>
+            </AmountSaved>
+            <PercentageSaved>51</PercentageSaved>
+            <Availability>Usually ships in 24 hours</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>0</MinimumHours>
+              <MaximumHours>0</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+            <IsEligibleForPrime>1</IsEligibleForPrime>
+          </OfferListing>
+        </Offer>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>3944</BrowseNodeId>
+          <Name>Introductory &amp; Beginning</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3839</BrowseNodeId>
+              <Name>Programming</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3600</BrowseNodeId>
+          <Name>Programming</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>3602</BrowseNodeId>
+              <Name>ActiveX</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>379360011</BrowseNodeId>
+              <Name>ASP.NET</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3605</BrowseNodeId>
+              <Name>Cold Fusion</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>379357011</BrowseNodeId>
+              <Name>CSS</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>379358011</BrowseNodeId>
+              <Name>DHTML</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>554538</BrowseNodeId>
+              <Name>Java Server Pages</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3617</BrowseNodeId>
+              <Name>JavaScript</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>295223</BrowseNodeId>
+              <Name>PHP</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>285856</BrowseNodeId>
+              <Name>Python</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>6134006011</BrowseNodeId>
+              <Name>Ruby</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>285858</BrowseNodeId>
+              <Name>XSL</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3510</BrowseNodeId>
+              <Name>Web Development &amp; Design</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3612</BrowseNodeId>
+          <Name>Beginner's Guides</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3608</BrowseNodeId>
+              <Name>Java</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3952</BrowseNodeId>
+                  <Name>Programming Languages</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3616</BrowseNodeId>
+          <Name>Reference</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3608</BrowseNodeId>
+              <Name>Java</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3952</BrowseNodeId>
+                  <Name>Programming Languages</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491314</BrowseNodeId>
+          <Name>Programming Languages</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+    <Item>
+      <ASIN>0596009208</ASIN>
+      <DetailPageURL>https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0596009208</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/tech-data/0596009208?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0596009208</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=0596009208&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0596009208</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=0596009208&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0596009208</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=0596009208&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0596009208</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/0596009208?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0596009208</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/0596009208?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0596009208</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/0596009208?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0596009208</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">65</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">138</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">432</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51zk3nmiDZL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">25</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51zk3nmiDZL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">64</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51zk3nmiDZL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">64</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51zk3nmiDZL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">93</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51zk3nmiDZL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">136</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51zk3nmiDZL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">424</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41Jb%2BCe0dHL._SL30_.jpg</URL>
+            <Height Units="pixels">19</Height>
+            <Width Units="pixels">30</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41Jb%2BCe0dHL._SL75_.jpg</URL>
+            <Height Units="pixels">47</Height>
+            <Width Units="pixels">75</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41Jb%2BCe0dHL._SL75_.jpg</URL>
+            <Height Units="pixels">47</Height>
+            <Width Units="pixels">75</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41Jb%2BCe0dHL._SL110_.jpg</URL>
+            <Height Units="pixels">68</Height>
+            <Width Units="pixels">110</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41Jb%2BCe0dHL._SL160_.jpg</URL>
+            <Height Units="pixels">100</Height>
+            <Width Units="pixels">160</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41Jb%2BCe0dHL.jpg</URL>
+            <Height Units="pixels">311</Height>
+            <Width Units="pixels">500</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">26</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">65</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">65</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">95</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">138</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">432</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Kathy Sierra</Author>
+        <Author>Bert Bates</Author>
+        <Binding>Paperback</Binding>
+        <Brand>Sierra, Kathy/ Bates, Bert</Brand>
+        <CatalogNumberList>
+          <CatalogNumberListElement>AL12133143</CatalogNumberListElement>
+        </CatalogNumberList>
+        <EAN>9780596009205</EAN>
+        <EANList>
+          <EANListElement>8601404235726</EANListElement>
+          <EANListElement>8601419449606</EANListElement>
+          <EANListElement>9780596009205</EANListElement>
+          <EANListElement>8601300354446</EANListElement>
+        </EANList>
+        <Edition>2nd</Edition>
+        <Feature>Head First Java</Feature>
+        <IsAdultProduct>0</IsAdultProduct>
+        <ISBN>0596009208</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">925</Height>
+          <Length Units="hundredths-inches">800</Length>
+          <Weight Units="hundredths-pounds">253</Weight>
+          <Width Units="hundredths-inches">148</Width>
+        </ItemDimensions>
+        <Label>O'Reilly Media</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>4495</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$44.95</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>O'Reilly Media</Manufacturer>
+        <MPN>978-0-596-00920-5</MPN>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>688</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">157</Height>
+          <Length Units="hundredths-inches">921</Length>
+          <Weight Units="hundredths-pounds">313</Weight>
+          <Width Units="hundredths-inches">795</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <PartNumber>978-0-596-00920-5</PartNumber>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2005-02-19</PublicationDate>
+        <Publisher>O'Reilly Media</Publisher>
+        <ReleaseDate>2005-02-09</ReleaseDate>
+        <SKU>9780596009205</SKU>
+        <Studio>O'Reilly Media</Studio>
+        <Title>Head First Java, 2nd Edition</Title>
+        <TradeInValue>
+          <Amount>554</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$5.54</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>2199</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$21.99</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>1234</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$12.34</FormattedPrice>
+        </LowestUsedPrice>
+        <LowestCollectiblePrice>
+          <Amount>2300</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$23.00</FormattedPrice>
+        </LowestCollectiblePrice>
+        <TotalNew>43</TotalNew>
+        <TotalUsed>93</TotalUsed>
+        <TotalCollectible>1</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/0596009208?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0596009208</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>zxQ945UxuMG%2Bn8gTOnCURf2eyVcpHcXl%2FLlpAtkZRIsAMrdDaoFL7MTLYxRp9%2BHbNbO8oWdNxUHxtY1NGeyFSiG%2BQCaa0MlBmrnfPSNBFBskZ5aZ%2BmbqhQ%3D%3D</OfferListingId>
+            <Price>
+              <Amount>2973</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$29.73</FormattedPrice>
+            </Price>
+            <AmountSaved>
+              <Amount>1522</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$15.22</FormattedPrice>
+            </AmountSaved>
+            <PercentageSaved>34</PercentageSaved>
+            <Availability>Usually ships in 24 hours</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>0</MinimumHours>
+              <MaximumHours>0</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+            <IsEligibleForPrime>1</IsEligibleForPrime>
+          </OfferListing>
+        </Offer>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>3448</BrowseNodeId>
+          <Name>Certification</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>10806576011</BrowseNodeId>
+              <Name>Adobe</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>379347011</BrowseNodeId>
+              <Name>Cisco</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>4544422011</BrowseNodeId>
+              <Name>CompTIA</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>285860</BrowseNodeId>
+              <Name>Linux</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>4531811011</BrowseNodeId>
+              <Name>Microsoft</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806583011</BrowseNodeId>
+              <Name>Oracle</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806585011</BrowseNodeId>
+              <Name>Security</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>5</BrowseNodeId>
+              <Name>Computers &amp; Technology</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>1000</BrowseNodeId>
+                  <Name>Subjects</Name>
+                  <IsCategoryRoot>1</IsCategoryRoot>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>283155</BrowseNodeId>
+                      <Name>Books</Name>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3508</BrowseNodeId>
+          <Name>Computer Science</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>3887</BrowseNodeId>
+              <Name>AI &amp; Machine Learning</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>760204</BrowseNodeId>
+              <Name>Bioinformatics</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>132559011</BrowseNodeId>
+              <Name>Computer Simulation</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>107196011</BrowseNodeId>
+              <Name>Cybernetics</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>132574011</BrowseNodeId>
+              <Name>Human-Computer Interaction</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>107197011</BrowseNodeId>
+              <Name>Information Theory</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3897</BrowseNodeId>
+              <Name>Robotics</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>602672</BrowseNodeId>
+              <Name>Systems Analysis &amp; Design</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>5</BrowseNodeId>
+              <Name>Computers &amp; Technology</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>1000</BrowseNodeId>
+                  <Name>Subjects</Name>
+                  <IsCategoryRoot>1</IsCategoryRoot>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>283155</BrowseNodeId>
+                      <Name>Books</Name>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>4013</BrowseNodeId>
+          <Name>Object-Oriented Design</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>4011</BrowseNodeId>
+              <Name>Software Design, Testing &amp; Engineering</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3839</BrowseNodeId>
+                  <Name>Programming</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>4053</BrowseNodeId>
+          <Name>Software</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>69760</BrowseNodeId>
+              <Name>Accounting</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>6133990011</BrowseNodeId>
+              <Name>Adobe</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806626011</BrowseNodeId>
+              <Name>Databases</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806627011</BrowseNodeId>
+              <Name>Design &amp; Graphics</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>4164</BrowseNodeId>
+              <Name>E-mail</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806628011</BrowseNodeId>
+              <Name>Enterprise Applications</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>271582011</BrowseNodeId>
+              <Name>Mathematical &amp; Statistical</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806637011</BrowseNodeId>
+              <Name>Microsoft</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>132553011</BrowseNodeId>
+              <Name>Optical Character Recognition</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>4169</BrowseNodeId>
+              <Name>Personal Finance</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806632011</BrowseNodeId>
+              <Name>Presentation Software</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806633011</BrowseNodeId>
+              <Name>Project Management Software</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>69761</BrowseNodeId>
+              <Name>Quickbooks</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806634011</BrowseNodeId>
+              <Name>Spreadsheets</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806635011</BrowseNodeId>
+              <Name>Suites</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>4072</BrowseNodeId>
+              <Name>Utilities</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>300354</BrowseNodeId>
+              <Name>Voice Recognition</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806636011</BrowseNodeId>
+              <Name>Word Processing</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>5</BrowseNodeId>
+              <Name>Computers &amp; Technology</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>1000</BrowseNodeId>
+                  <Name>Subjects</Name>
+                  <IsCategoryRoot>1</IsCategoryRoot>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>283155</BrowseNodeId>
+                      <Name>Books</Name>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3608</BrowseNodeId>
+          <Name>Java</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>3612</BrowseNodeId>
+              <Name>Beginner's Guides</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3616</BrowseNodeId>
+              <Name>Reference</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>173561</BrowseNodeId>
+              <Name>Servlets</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3952</BrowseNodeId>
+              <Name>Programming Languages</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491310</BrowseNodeId>
+          <Name>Object-Oriented Software Design</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491314</BrowseNodeId>
+          <Name>Programming Languages</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+    <Item>
+      <ASIN>0071808558</ASIN>
+      <DetailPageURL>https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/0071808558?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0071808558</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/tech-data/0071808558?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071808558</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=0071808558&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071808558</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=0071808558&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071808558</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=0071808558&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071808558</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/0071808558?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071808558</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/0071808558?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071808558</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/0071808558?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071808558</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/516CL5AVKVL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">61</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/516CL5AVKVL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">131</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/516CL5AVKVL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">408</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51gSeB1u3fL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">24</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51gSeB1u3fL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51gSeB1u3fL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51gSeB1u3fL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">89</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51gSeB1u3fL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">130</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51gSeB1u3fL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">405</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31RJqDjnSqL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">22</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31RJqDjnSqL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">56</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31RJqDjnSqL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">56</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31RJqDjnSqL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">82</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31RJqDjnSqL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">120</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/31RJqDjnSqL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">375</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/516CL5AVKVL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">24</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/516CL5AVKVL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/516CL5AVKVL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/516CL5AVKVL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">90</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/516CL5AVKVL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">131</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/516CL5AVKVL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">408</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Herbert Schildt</Author>
+        <Binding>Paperback</Binding>
+        <Brand>Herbert Schildt</Brand>
+        <EAN>9780071808552</EAN>
+        <EANList>
+          <EANListElement>9780071808552</EANListElement>
+        </EANList>
+        <Edition>9</Edition>
+        <Feature>Java the Complete Reference 9 E</Feature>
+        <ISBN>0071808558</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">910</Height>
+          <Length Units="hundredths-inches">730</Length>
+          <Weight Units="hundredths-pounds">414</Weight>
+          <Width Units="hundredths-inches">230</Width>
+        </ItemDimensions>
+        <Label>McGraw-Hill Education</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>6000</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$60.00</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>McGraw-Hill Education</Manufacturer>
+        <MPN>37743153</MPN>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>1312</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">190</Height>
+          <Length Units="hundredths-inches">910</Length>
+          <Weight Units="hundredths-pounds">410</Weight>
+          <Width Units="hundredths-inches">720</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <PartNumber>37743153</PartNumber>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2014-04-01</PublicationDate>
+        <Publisher>McGraw-Hill Education</Publisher>
+        <Studio>McGraw-Hill Education</Studio>
+        <Title>Java: The Complete Reference, Ninth Edition</Title>
+        <TradeInValue>
+          <Amount>451</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$4.51</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>2790</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$27.90</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>2259</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$22.59</FormattedPrice>
+        </LowestUsedPrice>
+        <TotalNew>23</TotalNew>
+        <TotalUsed>24</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/0071808558?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0071808558</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>zxQ945UxuMFsozoqCERx8zva%2Fi%2BHmWXQzkllARe27X6Hh8uEZqwlA5yHmwjmPOzFyDIjAfp2y0yy%2BkBaQ0xrTdxFPW8E7fr9dJYEdxKX9lE%2BNTwbaIRh7w%3D%3D</OfferListingId>
+            <Price>
+              <Amount>4161</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$41.61</FormattedPrice>
+            </Price>
+            <AmountSaved>
+              <Amount>1839</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$18.39</FormattedPrice>
+            </AmountSaved>
+            <PercentageSaved>31</PercentageSaved>
+            <Availability>Usually ships in 24 hours</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>0</MinimumHours>
+              <MaximumHours>0</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+            <IsEligibleForPrime>1</IsEligibleForPrime>
+          </OfferListing>
+        </Offer>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>3839</BrowseNodeId>
+          <Name>Programming</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>3840</BrowseNodeId>
+              <Name>APIs &amp; Operating Environments</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3870</BrowseNodeId>
+              <Name>Algorithms</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>6134007011</BrowseNodeId>
+              <Name>Apple Programming</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3669</BrowseNodeId>
+              <Name>Cross-platform Development</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>132561011</BrowseNodeId>
+              <Name>Functional</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>15375251</BrowseNodeId>
+              <Name>Game Programming</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3916</BrowseNodeId>
+              <Name>Graphics &amp; Multimedia</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3944</BrowseNodeId>
+              <Name>Introductory &amp; Beginning</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3952</BrowseNodeId>
+              <Name>Languages &amp; Tools</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>285848</BrowseNodeId>
+              <Name>Microsoft Programming</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>377559011</BrowseNodeId>
+              <Name>Mobile Apps</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806621011</BrowseNodeId>
+              <Name>Parallel Programming</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>4011</BrowseNodeId>
+              <Name>Software Design, Testing &amp; Engineering</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3600</BrowseNodeId>
+              <Name>Web Programming</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>5</BrowseNodeId>
+              <Name>Computers &amp; Technology</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>1000</BrowseNodeId>
+                  <Name>Subjects</Name>
+                  <IsCategoryRoot>1</IsCategoryRoot>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>283155</BrowseNodeId>
+                      <Name>Books</Name>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3600</BrowseNodeId>
+          <Name>Programming</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>3602</BrowseNodeId>
+              <Name>ActiveX</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>379360011</BrowseNodeId>
+              <Name>ASP.NET</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3605</BrowseNodeId>
+              <Name>Cold Fusion</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>379357011</BrowseNodeId>
+              <Name>CSS</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>379358011</BrowseNodeId>
+              <Name>DHTML</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>554538</BrowseNodeId>
+              <Name>Java Server Pages</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3617</BrowseNodeId>
+              <Name>JavaScript</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>295223</BrowseNodeId>
+              <Name>PHP</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>285856</BrowseNodeId>
+              <Name>Python</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>6134006011</BrowseNodeId>
+              <Name>Ruby</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>285858</BrowseNodeId>
+              <Name>XSL</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3510</BrowseNodeId>
+              <Name>Web Development &amp; Design</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3616</BrowseNodeId>
+          <Name>Reference</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3608</BrowseNodeId>
+              <Name>Java</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3952</BrowseNodeId>
+                  <Name>Programming Languages</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491314</BrowseNodeId>
+          <Name>Programming Languages</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+    <Item>
+      <ASIN>1539397831</ASIN>
+      <DetailPageURL>https://www.amazon.com/Learn-Java-Well-Coding-Fast/dp/1539397831?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1539397831</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Learn-Java-Well-Coding-Fast/dp/tech-data/1539397831?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1539397831</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=1539397831&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1539397831</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=1539397831&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1539397831</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=1539397831&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1539397831</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/1539397831?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1539397831</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/1539397831?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1539397831</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/1539397831?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1539397831</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51LiDlpOVlL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">50</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51LiDlpOVlL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">107</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51LiDlpOVlL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">333</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51LiDlpOVlL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">20</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51LiDlpOVlL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">50</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51LiDlpOVlL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">50</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51LiDlpOVlL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">73</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51LiDlpOVlL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">107</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51LiDlpOVlL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">333</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Jamie Chan</Author>
+        <Binding>Paperback</Binding>
+        <Brand>Ingramcontent</Brand>
+        <EAN>9781539397830</EAN>
+        <EANList>
+          <EANListElement>9781539397830</EANListElement>
+        </EANList>
+        <Edition>1</Edition>
+        <Feature>Learn Java in One Day and Learn It Well</Feature>
+        <ISBN>1539397831</ISBN>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">900</Height>
+          <Length Units="hundredths-inches">600</Length>
+          <Width Units="hundredths-inches">53</Width>
+        </ItemDimensions>
+        <Label>CreateSpace Independent Publishing Platform</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>1167</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$11.67</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>CreateSpace Independent Publishing Platform</Manufacturer>
+        <NumberOfPages>234</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">47</Height>
+          <Length Units="hundredths-inches">890</Length>
+          <Weight Units="hundredths-pounds">79</Weight>
+          <Width Units="hundredths-inches">598</Width>
+        </PackageDimensions>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2016-10-07</PublicationDate>
+        <Publisher>CreateSpace Independent Publishing Platform</Publisher>
+        <Studio>CreateSpace Independent Publishing Platform</Studio>
+        <Title>Learn Java in One Day and Learn It Well (Learn Coding Fast) (Volume 4)</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>1085</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$10.85</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>1120</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$11.20</FormattedPrice>
+        </LowestUsedPrice>
+        <TotalNew>15</TotalNew>
+        <TotalUsed>7</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/1539397831?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1539397831</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>v35V%2F1pIg3zbFNkGSHWabF7i2G6wjyYVDbZEEikfqkmqIwG0xRbj%2B41QxseMLso8TaqdfNQVMdI8WSAAOPNYuT8MynSFSCkNSRVXGIQPCKu7Zx%2BXrfi6%2FA%3D%3D</OfferListingId>
+            <Price>
+              <Amount>1086</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$10.86</FormattedPrice>
+            </Price>
+            <AmountSaved>
+              <Amount>81</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$0.81</FormattedPrice>
+            </AmountSaved>
+            <PercentageSaved>7</PercentageSaved>
+            <Availability>Usually ships in 24 hours</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>24</MinimumHours>
+              <MaximumHours>24</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+            <IsEligibleForPrime>1</IsEligibleForPrime>
+          </OfferListing>
+        </Offer>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>3944</BrowseNodeId>
+          <Name>Introductory &amp; Beginning</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3839</BrowseNodeId>
+              <Name>Programming</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3612</BrowseNodeId>
+          <Name>Beginner's Guides</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3608</BrowseNodeId>
+              <Name>Java</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3952</BrowseNodeId>
+                  <Name>Programming Languages</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+    <Item>
+      <ASIN>0133957055</ASIN>
+      <DetailPageURL>https://www.amazon.com/Starting-Out-Java-Control-Structures/dp/0133957055?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0133957055</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Starting-Out-Java-Control-Structures/dp/tech-data/0133957055?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133957055</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=0133957055&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133957055</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=0133957055&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133957055</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=0133957055&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133957055</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/0133957055?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133957055</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/0133957055?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133957055</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/0133957055?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133957055</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/41aSPXCz6TL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">60</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/41aSPXCz6TL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">128</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/41aSPXCz6TL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">400</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41aSPXCz6TL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">24</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41aSPXCz6TL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">60</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41aSPXCz6TL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">60</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41aSPXCz6TL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">88</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41aSPXCz6TL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">128</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41aSPXCz6TL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">400</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Tony Gaddis</Author>
+        <Binding>Paperback</Binding>
+        <Brand>Tony Gaddis</Brand>
+        <EAN>9780133957051</EAN>
+        <EANList>
+          <EANListElement>9780133957051</EANListElement>
+        </EANList>
+        <Edition>6</Edition>
+        <Feature>Starting Out with Java From Control Structures through Objects 6th Edition</Feature>
+        <ISBN>0133957055</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">990</Height>
+          <Length Units="hundredths-inches">790</Length>
+          <Weight Units="hundredths-pounds">0</Weight>
+          <Width Units="hundredths-inches">170</Width>
+        </ItemDimensions>
+        <Label>Pearson</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>15800</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$158.00</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Pearson</Manufacturer>
+        <MPN>illustrations</MPN>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>1224</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">70</Height>
+          <Length Units="hundredths-inches">1050</Length>
+          <Weight Units="hundredths-pounds">217</Weight>
+          <Width Units="hundredths-inches">830</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <PartNumber>illustrations</PartNumber>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2015-03-22</PublicationDate>
+        <Publisher>Pearson</Publisher>
+        <Studio>Pearson</Studio>
+        <Title>Starting Out with Java: From Control Structures through Objects (6th Edition)</Title>
+        <TradeInValue>
+          <Amount>8479</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$84.79</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>13899</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$138.99</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>33021</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$330.21</FormattedPrice>
+        </LowestUsedPrice>
+        <LowestCollectiblePrice>
+          <Amount>14975</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$149.75</FormattedPrice>
+        </LowestCollectiblePrice>
+        <TotalNew>8</TotalNew>
+        <TotalUsed>18</TotalUsed>
+        <TotalCollectible>1</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/0133957055?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133957055</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>v35V%2F1pIg3yGIF8%2BLyIBKKtal%2F6UUkuMQ1ql%2F3KvFCIUxIxyVrczyMsh7bvepvn6HD%2BZhdP0e7TlwVDOQhC6OWD6buKmV2bKD1bcKRpzh78Os%2Bwb2krvVA%3D%3D</OfferListingId>
+            <Price>
+              <Amount>15010</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$150.10</FormattedPrice>
+            </Price>
+            <AmountSaved>
+              <Amount>790</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$7.90</FormattedPrice>
+            </AmountSaved>
+            <PercentageSaved>5</PercentageSaved>
+            <AvailabilityAttributes>
+              <AvailabilityType>futureDate</AvailabilityType>
+              <MinimumHours>0</MinimumHours>
+              <MaximumHours>0</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+            <IsEligibleForPrime>1</IsEligibleForPrime>
+          </OfferListing>
+        </Offer>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>4013</BrowseNodeId>
+          <Name>Object-Oriented Design</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>4011</BrowseNodeId>
+              <Name>Software Design, Testing &amp; Engineering</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3839</BrowseNodeId>
+                  <Name>Programming</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3608</BrowseNodeId>
+          <Name>Java</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>3612</BrowseNodeId>
+              <Name>Beginner's Guides</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3616</BrowseNodeId>
+              <Name>Reference</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>173561</BrowseNodeId>
+              <Name>Servlets</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3952</BrowseNodeId>
+              <Name>Programming Languages</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491314</BrowseNodeId>
+          <Name>Programming Languages</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+    <Item>
+      <ASIN>0133594955</ASIN>
+      <DetailPageURL>https://www.amazon.com/Java-Software-Solutions-John-Lewis/dp/0133594955?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0133594955</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Java-Software-Solutions-John-Lewis/dp/tech-data/0133594955?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133594955</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=0133594955&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133594955</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=0133594955&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133594955</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=0133594955&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133594955</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/0133594955?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133594955</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/0133594955?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133594955</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/0133594955?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0133594955</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/41EACd%2BmJXL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">61</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/41EACd%2BmJXL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">129</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/41EACd%2BmJXL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">404</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41EACd%2BmJXL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">24</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41EACd%2BmJXL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41EACd%2BmJXL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41EACd%2BmJXL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">89</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41EACd%2BmJXL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">129</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41EACd%2BmJXL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">404</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>John Lewis</Author>
+        <Author>William Loftus</Author>
+        <Binding>Paperback</Binding>
+        <EAN>9780133594959</EAN>
+        <EANList>
+          <EANListElement>9780133594959</EANListElement>
+        </EANList>
+        <Edition>8</Edition>
+        <ISBN>0133594955</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">900</Height>
+          <Length Units="hundredths-inches">740</Length>
+          <Weight Units="hundredths-pounds">0</Weight>
+          <Width Units="hundredths-inches">120</Width>
+        </ItemDimensions>
+        <Label>Pearson</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>15800</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$158.00</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Pearson</Manufacturer>
+        <MPN>colour illustrations, figures</MPN>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>832</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">130</Height>
+          <Length Units="hundredths-inches">900</Length>
+          <Weight Units="hundredths-pounds">235</Weight>
+          <Width Units="hundredths-inches">740</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <PartNumber>colour illustrations, figures</PartNumber>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2014-03-03</PublicationDate>
+        <Publisher>Pearson</Publisher>
+        <Studio>Pearson</Studio>
+        <Title>Java Software Solutions (8th Edition)</Title>
+        <TradeInValue>
+          <Amount>1135</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$11.35</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>12500</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$125.00</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>2371</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$23.71</FormattedPrice>
+        </LowestUsedPrice>
+        <TotalNew>5</TotalNew>
+        <TotalUsed>46</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>0</TotalOffers>
+        <TotalOfferPages>0</TotalOfferPages>
+        <MoreOffersUrl>0</MoreOffersUrl>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>4013</BrowseNodeId>
+          <Name>Object-Oriented Design</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>4011</BrowseNodeId>
+              <Name>Software Design, Testing &amp; Engineering</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3839</BrowseNodeId>
+                  <Name>Programming</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3608</BrowseNodeId>
+          <Name>Java</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>3612</BrowseNodeId>
+              <Name>Beginner's Guides</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3616</BrowseNodeId>
+              <Name>Reference</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>173561</BrowseNodeId>
+              <Name>Servlets</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3952</BrowseNodeId>
+              <Name>Programming Languages</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491310</BrowseNodeId>
+          <Name>Object-Oriented Software Design</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491314</BrowseNodeId>
+          <Name>Programming Languages</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+    <Item>
+      <ASIN>0134670949</ASIN>
+      <DetailPageURL>https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0134670949?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134670949</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/tech-data/0134670949?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134670949</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=0134670949&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134670949</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=0134670949&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134670949</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=0134670949&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134670949</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/0134670949?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134670949</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/0134670949?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134670949</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/0134670949?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134670949</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51rFsKGbyML._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">60</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51rFsKGbyML._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">127</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51rFsKGbyML.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">397</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51rFsKGbyML._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">24</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51rFsKGbyML._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">60</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51rFsKGbyML._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">60</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51rFsKGbyML._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">87</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51rFsKGbyML._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">127</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51rFsKGbyML.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">397</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Y. Daniel Liang</Author>
+        <Binding>Paperback</Binding>
+        <EAN>9780134670942</EAN>
+        <EANList>
+          <EANListElement>9780134670942</EANListElement>
+        </EANList>
+        <Edition>11</Edition>
+        <ISBN>0134670949</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">990</Height>
+          <Length Units="hundredths-inches">790</Length>
+          <Width Units="hundredths-inches">160</Width>
+        </ItemDimensions>
+        <Label>Pearson</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>17500</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$175.00</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Pearson</Manufacturer>
+        <NumberOfPages>1232</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">150</Height>
+          <Length Units="hundredths-inches">992</Length>
+          <Weight Units="hundredths-pounds">397</Weight>
+          <Width Units="hundredths-inches">787</Width>
+        </PackageDimensions>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2017-03-11</PublicationDate>
+        <Publisher>Pearson</Publisher>
+        <Studio>Pearson</Studio>
+        <Title>Introduction to Java Programming and Data Structures, Comprehensive Version (11th Edition)</Title>
+        <TradeInValue>
+          <Amount>6277</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$62.77</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>14266</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$142.66</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>14914</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$149.14</FormattedPrice>
+        </LowestUsedPrice>
+        <TotalNew>4</TotalNew>
+        <TotalUsed>16</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/0134670949?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134670949</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>v35V%2F1pIg3yGIF8%2BLyIBKISTc0dmr0Oq3joav%2FDhC%2Bba%2B%2Fc5KD4mLAaDDQR8f6TBuNH5JtHGU9AaT2kb8zOknvpoK0sFYlMfNO%2F3Lp0rm6OgY3CHuyvRrQ%3D%3D</OfferListingId>
+            <Price>
+              <Amount>14266</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$142.66</FormattedPrice>
+            </Price>
+            <AmountSaved>
+              <Amount>3234</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$32.34</FormattedPrice>
+            </AmountSaved>
+            <PercentageSaved>18</PercentageSaved>
+            <Availability>Usually ships in 24 hours</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>0</MinimumHours>
+              <MaximumHours>0</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+            <IsEligibleForPrime>1</IsEligibleForPrime>
+          </OfferListing>
+        </Offer>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>3944</BrowseNodeId>
+          <Name>Introductory &amp; Beginning</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3839</BrowseNodeId>
+              <Name>Programming</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3612</BrowseNodeId>
+          <Name>Beginner's Guides</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3608</BrowseNodeId>
+              <Name>Java</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3952</BrowseNodeId>
+                  <Name>Programming Languages</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491314</BrowseNodeId>
+          <Name>Programming Languages</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+    <Item>
+      <ASIN>1491900865</ASIN>
+      <DetailPageURL>https://www.amazon.com/Java-Pocket-Guide-Instant-Programmers/dp/1491900865?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491900865</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Java-Pocket-Guide-Instant-Programmers/dp/tech-data/1491900865?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1491900865</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=1491900865&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1491900865</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=1491900865&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1491900865</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=1491900865&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1491900865</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/1491900865?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1491900865</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/1491900865?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1491900865</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/1491900865?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1491900865</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51YZf6N-zOL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">46</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51YZf6N-zOL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">97</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51YZf6N-zOL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">304</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51KOeSRfcCL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">18</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51KOeSRfcCL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51KOeSRfcCL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51KOeSRfcCL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">67</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51KOeSRfcCL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">97</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51KOeSRfcCL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">304</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41BNoMEa7dL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">22</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41BNoMEa7dL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">56</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41BNoMEa7dL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">56</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41BNoMEa7dL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">82</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41BNoMEa7dL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">120</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/41BNoMEa7dL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">375</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51YZf6N-zOL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">18</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51YZf6N-zOL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51YZf6N-zOL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">46</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51YZf6N-zOL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">67</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51YZf6N-zOL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">97</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51YZf6N-zOL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">304</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Robert Liguori</Author>
+        <Author>Patricia Liguori</Author>
+        <Binding>Paperback</Binding>
+        <EAN>9781491900864</EAN>
+        <EANList>
+          <EANListElement>9781491900864</EANListElement>
+          <EANListElement>8601416642352</EANListElement>
+        </EANList>
+        <Edition>1</Edition>
+        <ISBN>1491900865</ISBN>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">799</Height>
+          <Length Units="hundredths-inches">425</Length>
+          <Weight Units="hundredths-pounds">38</Weight>
+          <Width Units="hundredths-inches">51</Width>
+        </ItemDimensions>
+        <Label>O'Reilly Media</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>1499</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$14.99</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>O'Reilly Media</Manufacturer>
+        <MPN>black &amp; white illustrations, black &amp; whi</MPN>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>242</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">80</Height>
+          <Length Units="hundredths-inches">690</Length>
+          <Weight Units="hundredths-pounds">30</Weight>
+          <Width Units="hundredths-inches">420</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <PartNumber>black &amp; white illustrations, black &amp; whi</PartNumber>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2014-04-28</PublicationDate>
+        <Publisher>O'Reilly Media</Publisher>
+        <Studio>O'Reilly Media</Studio>
+        <Title>Java 8 Pocket Guide: Instant Help for Java Programmers</Title>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>845</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$8.45</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>426</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$4.26</FormattedPrice>
+        </LowestUsedPrice>
+        <TotalNew>40</TotalNew>
+        <TotalUsed>26</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/1491900865?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=1491900865</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>v35V%2F1pIg3z25%2BlZNnr5yfrgNhrbRvNER5Tv7XvV3reT7q2C%2F0rC%2BRHoe2GkrSNNiaYq3gJFqawl931vShe0rvG%2Fnreb2mesa6IFoIdQZ%2BywGC5FQSTWow%3D%3D</OfferListingId>
+            <Price>
+              <Amount>1122</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$11.22</FormattedPrice>
+            </Price>
+            <AmountSaved>
+              <Amount>377</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$3.77</FormattedPrice>
+            </AmountSaved>
+            <PercentageSaved>25</PercentageSaved>
+            <Availability>Usually ships in 24 hours</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>0</MinimumHours>
+              <MaximumHours>0</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+            <IsEligibleForPrime>1</IsEligibleForPrime>
+          </OfferListing>
+        </Offer>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>4013</BrowseNodeId>
+          <Name>Object-Oriented Design</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>4011</BrowseNodeId>
+              <Name>Software Design, Testing &amp; Engineering</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3839</BrowseNodeId>
+                  <Name>Programming</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>4016</BrowseNodeId>
+          <Name>Software Development</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>4011</BrowseNodeId>
+              <Name>Software Design, Testing &amp; Engineering</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3839</BrowseNodeId>
+                  <Name>Programming</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3608</BrowseNodeId>
+          <Name>Java</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>3612</BrowseNodeId>
+              <Name>Beginner's Guides</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>3616</BrowseNodeId>
+              <Name>Reference</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>173561</BrowseNodeId>
+              <Name>Servlets</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3952</BrowseNodeId>
+              <Name>Programming Languages</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491310</BrowseNodeId>
+          <Name>Object-Oriented Software Design</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491314</BrowseNodeId>
+          <Name>Programming Languages</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491316</BrowseNodeId>
+          <Name>Software Design &amp; Engineering</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+    <Item>
+      <ASIN>0321356683</ASIN>
+      <DetailPageURL>https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321356683</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/tech-data/0321356683?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0321356683</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=0321356683&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0321356683</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=0321356683&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0321356683</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=0321356683&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0321356683</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/0321356683?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0321356683</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/0321356683?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0321356683</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/0321356683?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0321356683</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51sRluR-aOL._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">54</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51sRluR-aOL._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">116</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/51sRluR-aOL.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">361</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="variant">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/21QpKKl8gyL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">23</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/21QpKKl8gyL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">58</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/21QpKKl8gyL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">58</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/21QpKKl8gyL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">85</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/21QpKKl8gyL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">124</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/21QpKKl8gyL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">386</Width>
+          </LargeImage>
+        </ImageSet>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51sRluR-aOL._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">22</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51sRluR-aOL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">54</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51sRluR-aOL._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">54</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51sRluR-aOL._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">79</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51sRluR-aOL._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">116</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/51sRluR-aOL.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">361</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Joshua Bloch</Author>
+        <Binding>Paperback</Binding>
+        <Brand>imusti</Brand>
+        <EAN>9780321356680</EAN>
+        <EANList>
+          <EANListElement>8601404288357</EANListElement>
+          <EANListElement>8601400000663</EANListElement>
+          <EANListElement>8601300201986</EANListElement>
+          <EANListElement>8580001065304</EANListElement>
+          <EANListElement>9780321356680</EANListElement>
+          <EANListElement>0785342356687</EANListElement>
+        </EANList>
+        <Edition>2</Edition>
+        <Feature>ISBN13: 9780321356680</Feature>
+        <Feature>Condition: New</Feature>
+        <Feature>Notes: BRAND NEW FROM PUBLISHER! 100% Satisfaction Guarantee. Tracking provided on most orders. Buy with Confidence! Millions of books sold!</Feature>
+        <IsAdultProduct>0</IsAdultProduct>
+        <ISBN>0321356683</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">920</Height>
+          <Length Units="hundredths-inches">740</Length>
+          <Weight Units="hundredths-pounds">170</Weight>
+          <Width Units="hundredths-inches">90</Width>
+        </ItemDimensions>
+        <Label>Addison-Wesley</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>5499</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$54.99</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Addison-Wesley</Manufacturer>
+        <MPN>978-0-3213-5668-0</MPN>
+        <NumberOfItems>1</NumberOfItems>
+        <NumberOfPages>346</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">102</Height>
+          <Length Units="hundredths-inches">913</Length>
+          <Weight Units="hundredths-pounds">176</Weight>
+          <Width Units="hundredths-inches">732</Width>
+        </PackageDimensions>
+        <PackageQuantity>1</PackageQuantity>
+        <PartNumber>978-0-3213-5668-0</PartNumber>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2008-05-28</PublicationDate>
+        <Publisher>Addison-Wesley</Publisher>
+        <Studio>Addison-Wesley</Studio>
+        <Title>Effective Java (2nd Edition)</Title>
+        <TradeInValue>
+          <Amount>1086</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$10.86</FormattedPrice>
+        </TradeInValue>
+        <UPC>785342356687</UPC>
+        <UPCList>
+          <UPCListElement>785342356687</UPCListElement>
+        </UPCList>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>3702</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$37.02</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>3896</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$38.96</FormattedPrice>
+        </LowestUsedPrice>
+        <TotalNew>19</TotalNew>
+        <TotalUsed>27</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/0321356683?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0321356683</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>zxQ945UxuMHOQRuHXSuxiitX8smZJh4hn0pI7R7%2FBry6TIO7IlvxTZ%2B1i3am8A%2FguG4Vt29WdBhzhgQ7KKn4ydjMgZF0JuzC1xdkMSfcUzU%3D</OfferListingId>
+            <Price>
+              <Amount>4893</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$48.93</FormattedPrice>
+            </Price>
+            <AmountSaved>
+              <Amount>606</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$6.06</FormattedPrice>
+            </AmountSaved>
+            <PercentageSaved>11</PercentageSaved>
+            <Availability>Usually ships in 24 hours</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>0</MinimumHours>
+              <MaximumHours>0</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+            <IsEligibleForPrime>1</IsEligibleForPrime>
+          </OfferListing>
+        </Offer>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>4013</BrowseNodeId>
+          <Name>Object-Oriented Design</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>4011</BrowseNodeId>
+              <Name>Software Design, Testing &amp; Engineering</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3839</BrowseNodeId>
+                  <Name>Programming</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>4053</BrowseNodeId>
+          <Name>Software</Name>
+          <Children>
+            <BrowseNode>
+              <BrowseNodeId>69760</BrowseNodeId>
+              <Name>Accounting</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>6133990011</BrowseNodeId>
+              <Name>Adobe</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806626011</BrowseNodeId>
+              <Name>Databases</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806627011</BrowseNodeId>
+              <Name>Design &amp; Graphics</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>4164</BrowseNodeId>
+              <Name>E-mail</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806628011</BrowseNodeId>
+              <Name>Enterprise Applications</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>271582011</BrowseNodeId>
+              <Name>Mathematical &amp; Statistical</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806637011</BrowseNodeId>
+              <Name>Microsoft</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>132553011</BrowseNodeId>
+              <Name>Optical Character Recognition</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>4169</BrowseNodeId>
+              <Name>Personal Finance</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806632011</BrowseNodeId>
+              <Name>Presentation Software</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806633011</BrowseNodeId>
+              <Name>Project Management Software</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>69761</BrowseNodeId>
+              <Name>Quickbooks</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806634011</BrowseNodeId>
+              <Name>Spreadsheets</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806635011</BrowseNodeId>
+              <Name>Suites</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>4072</BrowseNodeId>
+              <Name>Utilities</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>300354</BrowseNodeId>
+              <Name>Voice Recognition</Name>
+            </BrowseNode>
+            <BrowseNode>
+              <BrowseNodeId>10806636011</BrowseNodeId>
+              <Name>Word Processing</Name>
+            </BrowseNode>
+          </Children>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>5</BrowseNodeId>
+              <Name>Computers &amp; Technology</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>1000</BrowseNodeId>
+                  <Name>Subjects</Name>
+                  <IsCategoryRoot>1</IsCategoryRoot>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>283155</BrowseNodeId>
+                      <Name>Books</Name>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3612</BrowseNodeId>
+          <Name>Beginner's Guides</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3608</BrowseNodeId>
+              <Name>Java</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3952</BrowseNodeId>
+                  <Name>Programming Languages</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491310</BrowseNodeId>
+          <Name>Object-Oriented Software Design</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491314</BrowseNodeId>
+          <Name>Programming Languages</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+    <Item>
+      <ASIN>0134462033</ASIN>
+      <DetailPageURL>https://www.amazon.com/Java-Introduction-Problem-Solving-Programming/dp/0134462033?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134462033</DetailPageURL>
+      <ItemLinks>
+        <ItemLink>
+          <Description>Technical Details</Description>
+          <URL>https://www.amazon.com/Java-Introduction-Problem-Solving-Programming/dp/tech-data/0134462033?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134462033</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Baby Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=0134462033&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134462033</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wedding Registry</Description>
+          <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=0134462033&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134462033</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Add To Wishlist</Description>
+          <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=0134462033&amp;SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134462033</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>Tell A Friend</Description>
+          <URL>https://www.amazon.com/gp/pdp/taf/0134462033?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134462033</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Customer Reviews</Description>
+          <URL>https://www.amazon.com/review/product/0134462033?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134462033</URL>
+        </ItemLink>
+        <ItemLink>
+          <Description>All Offers</Description>
+          <URL>https://www.amazon.com/gp/offer-listing/0134462033?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134462033</URL>
+        </ItemLink>
+      </ItemLinks>
+      <SmallImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/61q3OQZrB0L._SL75_.jpg</URL>
+        <Height Units="pixels">75</Height>
+        <Width Units="pixels">61</Width>
+      </SmallImage>
+      <MediumImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/61q3OQZrB0L._SL160_.jpg</URL>
+        <Height Units="pixels">160</Height>
+        <Width Units="pixels">129</Width>
+      </MediumImage>
+      <LargeImage>
+        <URL>https://images-na.ssl-images-amazon.com/images/I/61q3OQZrB0L.jpg</URL>
+        <Height Units="pixels">500</Height>
+        <Width Units="pixels">404</Width>
+      </LargeImage>
+      <ImageSets>
+        <ImageSet Category="primary">
+          <SwatchImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/61q3OQZrB0L._SL30_.jpg</URL>
+            <Height Units="pixels">30</Height>
+            <Width Units="pixels">24</Width>
+          </SwatchImage>
+          <SmallImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/61q3OQZrB0L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </SmallImage>
+          <ThumbnailImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/61q3OQZrB0L._SL75_.jpg</URL>
+            <Height Units="pixels">75</Height>
+            <Width Units="pixels">61</Width>
+          </ThumbnailImage>
+          <TinyImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/61q3OQZrB0L._SL110_.jpg</URL>
+            <Height Units="pixels">110</Height>
+            <Width Units="pixels">89</Width>
+          </TinyImage>
+          <MediumImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/61q3OQZrB0L._SL160_.jpg</URL>
+            <Height Units="pixels">160</Height>
+            <Width Units="pixels">129</Width>
+          </MediumImage>
+          <LargeImage>
+            <URL>https://images-na.ssl-images-amazon.com/images/I/61q3OQZrB0L.jpg</URL>
+            <Height Units="pixels">500</Height>
+            <Width Units="pixels">404</Width>
+          </LargeImage>
+        </ImageSet>
+      </ImageSets>
+      <ItemAttributes>
+        <Author>Walter Savitch</Author>
+        <Binding>Paperback</Binding>
+        <EAN>9780134462035</EAN>
+        <EANList>
+          <EANListElement>9780134462035</EANListElement>
+        </EANList>
+        <Edition>8</Edition>
+        <ISBN>0134462033</ISBN>
+        <IsEligibleForTradeIn>1</IsEligibleForTradeIn>
+        <ItemDimensions>
+          <Height Units="hundredths-inches">910</Height>
+          <Length Units="hundredths-inches">740</Length>
+          <Width Units="hundredths-inches">140</Width>
+        </ItemDimensions>
+        <Label>Pearson</Label>
+        <Languages>
+          <Language>
+            <Name>English</Name>
+            <Type>Published</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Original Language</Type>
+          </Language>
+          <Language>
+            <Name>English</Name>
+            <Type>Unknown</Type>
+          </Language>
+        </Languages>
+        <ListPrice>
+          <Amount>15800</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$158.00</FormattedPrice>
+        </ListPrice>
+        <Manufacturer>Pearson</Manufacturer>
+        <NumberOfPages>1056</NumberOfPages>
+        <PackageDimensions>
+          <Height Units="hundredths-inches">142</Height>
+          <Length Units="hundredths-inches">941</Length>
+          <Weight Units="hundredths-pounds">300</Weight>
+          <Width Units="hundredths-inches">760</Width>
+        </PackageDimensions>
+        <ProductGroup>Book</ProductGroup>
+        <ProductTypeName>ABIS_BOOK</ProductTypeName>
+        <PublicationDate>2017-03-05</PublicationDate>
+        <Publisher>Pearson</Publisher>
+        <Studio>Pearson</Studio>
+        <Title>Java: An Introduction to Problem Solving and Programming (8th Edition)</Title>
+        <TradeInValue>
+          <Amount>8762</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$87.62</FormattedPrice>
+        </TradeInValue>
+      </ItemAttributes>
+      <OfferSummary>
+        <LowestNewPrice>
+          <Amount>14580</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$145.80</FormattedPrice>
+        </LowestNewPrice>
+        <LowestUsedPrice>
+          <Amount>13935</Amount>
+          <CurrencyCode>USD</CurrencyCode>
+          <FormattedPrice>$139.35</FormattedPrice>
+        </LowestUsedPrice>
+        <TotalNew>6</TotalNew>
+        <TotalUsed>11</TotalUsed>
+        <TotalCollectible>0</TotalCollectible>
+        <TotalRefurbished>0</TotalRefurbished>
+      </OfferSummary>
+      <Offers>
+        <TotalOffers>1</TotalOffers>
+        <TotalOfferPages>1</TotalOfferPages>
+        <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/0134462033?SubscriptionId=AKIAJDLDLLPQSCXXNEZQ&amp;tag=wangnanasso01-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=0134462033</MoreOffersUrl>
+        <Offer>
+          <OfferAttributes>
+            <Condition>New</Condition>
+          </OfferAttributes>
+          <OfferListing>
+            <OfferListingId>v35V%2F1pIg3yGIF8%2BLyIBKCkAEScmQlOS%2Bst0XtY0LvKp2G8b6WQzlDNW%2Fi9TZvPuCytY%2FKb7XnVXKIw6135YeFiLDBYnVRvk%2F0IEbv%2F%2Bg5nG0Ock8vrIqA%3D%3D</OfferListingId>
+            <Price>
+              <Amount>15010</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$150.10</FormattedPrice>
+            </Price>
+            <AmountSaved>
+              <Amount>790</Amount>
+              <CurrencyCode>USD</CurrencyCode>
+              <FormattedPrice>$7.90</FormattedPrice>
+            </AmountSaved>
+            <PercentageSaved>5</PercentageSaved>
+            <Availability>Usually ships in 24 hours</Availability>
+            <AvailabilityAttributes>
+              <AvailabilityType>now</AvailabilityType>
+              <MinimumHours>0</MinimumHours>
+              <MaximumHours>0</MaximumHours>
+            </AvailabilityAttributes>
+            <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+            <IsEligibleForPrime>1</IsEligibleForPrime>
+          </OfferListing>
+        </Offer>
+      </Offers>
+      <BrowseNodes>
+        <BrowseNode>
+          <BrowseNodeId>3944</BrowseNodeId>
+          <Name>Introductory &amp; Beginning</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3839</BrowseNodeId>
+              <Name>Programming</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>5</BrowseNodeId>
+                  <Name>Computers &amp; Technology</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>1000</BrowseNodeId>
+                      <Name>Subjects</Name>
+                      <IsCategoryRoot>1</IsCategoryRoot>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>3612</BrowseNodeId>
+          <Name>Beginner's Guides</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>3608</BrowseNodeId>
+              <Name>Java</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>3952</BrowseNodeId>
+                  <Name>Programming Languages</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>5</BrowseNodeId>
+                      <Name>Computers &amp; Technology</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>1000</BrowseNodeId>
+                          <Name>Subjects</Name>
+                          <IsCategoryRoot>1</IsCategoryRoot>
+                          <Ancestors>
+                            <BrowseNode>
+                              <BrowseNodeId>283155</BrowseNodeId>
+                              <Name>Books</Name>
+                            </BrowseNode>
+                          </Ancestors>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+        <BrowseNode>
+          <BrowseNodeId>491314</BrowseNodeId>
+          <Name>Programming Languages</Name>
+          <Ancestors>
+            <BrowseNode>
+              <BrowseNodeId>468204</BrowseNodeId>
+              <Name>Computer Science</Name>
+              <Ancestors>
+                <BrowseNode>
+                  <BrowseNodeId>465600</BrowseNodeId>
+                  <Name>New, Used &amp; Rental Textbooks</Name>
+                  <Ancestors>
+                    <BrowseNode>
+                      <BrowseNodeId>2349030011</BrowseNodeId>
+                      <Name>Specialty Boutique</Name>
+                      <Ancestors>
+                        <BrowseNode>
+                          <BrowseNodeId>283155</BrowseNodeId>
+                          <Name>Books</Name>
+                        </BrowseNode>
+                      </Ancestors>
+                    </BrowseNode>
+                  </Ancestors>
+                </BrowseNode>
+              </Ancestors>
+            </BrowseNode>
+          </Ancestors>
+        </BrowseNode>
+      </BrowseNodes>
+    </Item>
+  </Items>
+</ItemSearchResponse>
