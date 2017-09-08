@@ -9,7 +9,7 @@ import lombok.Data;
 
 @Data
 @XmlAccessorType(XmlAccessType.FIELD)
-@XmlRootElement(name="CartGetResponse", namespace = "http://webservices.amazon.com/AWSECommerceService/2011-08-01")
+@XmlRootElement(name="CartGetResponse", namespace = "http://webservices.amazon.com/AWSECommerceService/2013-08-01")
 public class CartGetResponse {
 
 	@XmlElement(name="OperationRequest")

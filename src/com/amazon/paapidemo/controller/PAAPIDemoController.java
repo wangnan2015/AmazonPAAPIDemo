@@ -64,6 +64,7 @@ public class PAAPIDemoController {
         
         Map<String, String> params = new HashMap<String, String>();
         params.put("Service", "AWSECommerceService");
+        params.put("Version", "2013-08-01");
         params.put("Operation", "ItemSearch");
         params.put("AWSAccessKeyId", appConfig.getAwsAccessKeyId());
         params.put("AssociateTag", appConfig.getAssociateTag());
@@ -99,6 +100,7 @@ public class PAAPIDemoController {
         
         Map<String, String> params = new HashMap<String, String>();
         params.put("Service", "AWSECommerceService");
+        params.put("Version", "2013-08-01");
         params.put("Operation", "CartGet");
         params.put("AWSAccessKeyId", appConfig.getAwsAccessKeyId());
         params.put("AssociateTag", appConfig.getAssociateTag());
@@ -130,6 +132,7 @@ public class PAAPIDemoController {
             
         Map<String, String> params = new HashMap<String, String>();
         params.put("Service", "AWSECommerceService");
+        params.put("Version", "2013-08-01");
         params.put("Operation", "CartCreate");
         params.put("AWSAccessKeyId", appConfig.getAwsAccessKeyId());
         params.put("AssociateTag", appConfig.getAssociateTag());
@@ -164,6 +167,7 @@ public class PAAPIDemoController {
         
         Map<String, String> params = new HashMap<String, String>();
         params.put("Service", "AWSECommerceService");
+        params.put("Version", "2013-08-01");
         params.put("Operation", "CartAdd");
         params.put("AWSAccessKeyId", appConfig.getAwsAccessKeyId());
         params.put("AssociateTag", appConfig.getAssociateTag());
@@ -198,6 +202,7 @@ public class PAAPIDemoController {
         
         Map<String, String> params = new HashMap<String, String>();
         params.put("Service", "AWSECommerceService");
+        params.put("Version", "2013-08-01");
         params.put("Operation", "CartClear");
         params.put("AWSAccessKeyId", appConfig.getAwsAccessKeyId());
         params.put("AssociateTag", appConfig.getAssociateTag());
