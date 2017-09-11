@@ -17,12 +17,7 @@ import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 
 import org.apache.commons.codec.binary.Base64;
-import org.springframework.stereotype.Component;
 
-import lombok.extern.slf4j.Slf4j;
-
-@Component
-@Slf4j
 public class SignedRequestsHelper {
   private static final String UTF8_CHARSET = "UTF-8";
   private static final String HMAC_SHA256_ALGORITHM = "HmacSHA256";
